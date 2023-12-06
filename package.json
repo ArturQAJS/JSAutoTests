@@ -1,0 +1,13 @@
+{
+  "name": "js_autotests",
+  "version": "1.0.0",
+  "description": "Homework for JS automation course",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.3"
+  }
+}
